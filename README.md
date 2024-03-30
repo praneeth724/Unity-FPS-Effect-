@@ -24,6 +24,6 @@ This repository contains a simple FPS (First Person Shooter) Unity game script t
 
 🚀 Excited to share my latest project: an FPS Unity game script for a gun mechanic! 
 
-🔗 Dive into the code and explore how it works: [Insert GitHub repo link]
+🔗 Dive into the code and explore how it works:https://github.com/praneeth724/Unity-FPS-Effect-.git
 
 #Unity #GameDev #IndieDev #FPS #GitHub
